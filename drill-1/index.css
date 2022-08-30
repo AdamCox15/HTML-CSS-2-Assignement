@@ -1,26 +1,25 @@
-#header1 {
-    height: 200px;
-    background-color: grey;
-    position: relative;
+body {
+    margin: 0px;
+    width: 100%;
+    background-color: gainsboro;
 }
-.new {
-    display: flex;
-    justify-content: space-between;
+
+header {
+    background-color: darkslategray;
+    height: 150px;
+    width: 100%;
 }
- #firstD {
-    background-color: lightgray;
-    height: 900px;
-    width: 170px;
-   align-items: stretch;
+
+main {
+    background-color: white;
+    width: 75%;
+    height: 100vh;
+    margin: 0 auto;
 }
-#secondD {
-    background-color: lightgray;
-    height: 900px;
-    width: 170px;
-}
+
 footer {
+    margin: 0 auto;
+    width: 75%;
+    height: 10vh;
     background-color: black;
-    height: 40px;
-    width: 71.5%;
-    margin-left: 170px;
 }
