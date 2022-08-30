@@ -1,0 +1,26 @@
+#header1 {
+    height: 200px;
+    background-color: grey;
+    position: relative;
+}
+.new {
+    display: flex;
+    justify-content: space-between;
+}
+ #firstD {
+    background-color: lightgray;
+    height: 900px;
+    width: 170px;
+   align-items: stretch;
+}
+#secondD {
+    background-color: lightgray;
+    height: 900px;
+    width: 170px;
+}
+footer {
+    background-color: black;
+    height: 40px;
+    width: 71.5%;
+    margin-left: 170px;
+}
